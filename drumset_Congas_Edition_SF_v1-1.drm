@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="3.02">
+  <Drum pitch="60">
+    <head>normal</head>
+    <line>6</line>
+    <voice>0</voice>
+    <name>Bass tumba (center)</name>
+    <stem>2</stem>
+    <shortcut>C</shortcut>
+    </Drum>
+  <Drum pitch="62">
+    <head>cross</head>
+    <line>6</line>
+    <voice>0</voice>
+    <name>Medium tumba (border)</name>
+    <stem>2</stem>
+    <shortcut>D</shortcut>
+    </Drum>
+  <Drum pitch="64">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadWhole</whole>
+      <half>noteheadHalf</half>
+      <quarter>noteheadTriangleDownBlack</quarter>
+      <breve>noteheadDoubleWhole</breve>
+      </noteheads>
+    <line>6</line>
+    <voice>0</voice>
+    <name>Treble tumba (slap)</name>
+    <stem>2</stem>
+    <shortcut>E</shortcut>
+    </Drum>
+  <Drum pitch="65">
+    <head>normal</head>
+    <line>2</line>
+    <voice>1</voice>
+    <name>Bass conga (center)</name>
+    <stem>1</stem>
+    <shortcut>F</shortcut>
+    </Drum>
+  <Drum pitch="67">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadWhole</whole>
+      <half>noteheadHalf</half>
+      <quarter>noteheadXBlack</quarter>
+      <breve>noteheadDoubleWhole</breve>
+      </noteheads>
+    <line>2</line>
+    <voice>1</voice>
+    <name>Medium conga (border)</name>
+    <stem>1</stem>
+    <shortcut>G</shortcut>
+    </Drum>
+  <Drum pitch="69">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadWhole</whole>
+      <half>noteheadHalf</half>
+      <quarter>noteheadTriangleDownBlack</quarter>
+      <breve>noteheadDoubleWhole</breve>
+      </noteheads>
+    <line>2</line>
+    <voice>1</voice>
+    <name>Treble conga (slap)</name>
+    <stem>1</stem>
+    <shortcut>A</shortcut>
+    </Drum>
+  <Drum pitch="71">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadWhole</whole>
+      <half>noteheadHalf</half>
+      <quarter>noteheadVoidWithX</quarter>
+      <breve>noteheadDoubleWhole</breve>
+      </noteheads>
+    <line>2</line>
+    <voice>1</voice>
+    <name>Palm conga</name>
+    <stem>1</stem>
+    <shortcut>B</shortcut>
+    </Drum>
+  <Drum pitch="72">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadWhole</whole>
+      <half>noteheadHalf</half>
+      <quarter>noteheadDiamondBlack</quarter>
+      <breve>noteheadDoubleWhole</breve>
+      </noteheads>
+    <line>2</line>
+    <voice>1</voice>
+    <name>Finger conga</name>
+    <stem>1</stem>
+    </Drum>
+  </museScore>
